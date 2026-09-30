@@ -29,10 +29,12 @@ can be used via their website to download the addons or you can also get their c
 
 - curseforge https://www.curseforge.com/wow/search?class=addons&page=1&pageSize=20&sortBy=relevancy
 how to: (ATTENTION: NEVER USE/CLICK THE RED DOWNLOAD BUTTON ON THIS SITE - IT WILL DOWNLOAD THE LATEST RETAIL VERSION (12.X.X) OF THE ADDON AND THAT WILL MOST LIKELY NOT FUNCTION WITH OUR 7.3.5 GAME CLIENT)
-> find an addon you like and click on its "Files" tab
-> click the slider on the left side of "Show alpha files" to enable it
-> browse the game version 7.3.5 from the list via clicking on "Game Versions" (HINT: if you cannot find the 7.3.5 version, try to use anything below that 7.2.5 etc etc and so on - sometimes the addon is not available for patch 7.x.x at all - what you can do is try 6.X.X or 8.X.X+ versions. they may work - otherwise you are probably out of luck)
-> click the download button from the file on the very top of the list (the latest version)
+
+screenshot of the following steps: https://imgur.com/a/PFkkjZf
+1. find an addon you like and click on its "Files" tab
+2. click the slider on the left side of "Show alpha files" to enable it
+3. browse the game version 7.3.5 from the list via clicking on "Game Versions" (HINT: if you cannot find the 7.3.5 version, try to use anything below that 7.2.5 etc etc and so on - sometimes the addon is not available for patch 7.x.x at all - what you can do is try 6.X.X or 8.X.X+ versions. they may work - otherwise you are probably out of luck)
+4. click the download button from the file on the very top of the list (the latest version)
 
 - install  addons via the launcher or optionally https://tauriwow.com/addon
 
