@@ -13,6 +13,10 @@ Class Guides:
 
 https://web.archive.org/web/20180303231315/https://www.icy-veins.com/wow/class-guides
 
+# Transmog
+
+list of recolored Class Tier sets (for example you can use the recolored version of the Judgement Armor Tier 2 Set (Paladin) on any plate class) : https://wowpedia.fandom.com/wiki/Set_look_alikes
+
 # Addons:
 
 - curseforge, browse files etc etc
