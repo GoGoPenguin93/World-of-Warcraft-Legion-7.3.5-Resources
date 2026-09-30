@@ -31,7 +31,21 @@ Simulationcraft
 
 - (addon from previous step required): write "/simc" ingame with the addon enabled and copy paste the full string into https://tauribots.com/
 
-Weakauras
+# Garrison Guides (Warlords of Dreanor expansion)
+
+- a complete guide to the garrison, for an overview: https://www.icy-veins.com/wow/garrison-complete-guide
+
+- optional: heirloom rings from the garrison shipyard missions (total +5% exp boost). there is 3 rings for different specs and they are unique equipped, meaning you can only equip 1 of them at a time
+for the following you WILL NEED: garrison level 3; shipyard level 3; item: https://www.wowhead.com/item=128257/equipment-blueprint-ghostly-spyglass from a rare mob
+when you got this done, watch this short walkthrough video to get a basic understanding of the steps to the heirloom drops. (NOTE: you do NOT have to buy the item in step 5 nor equip it (step 6). the missions will pop up without having that item.) https://youtu.be/lY982cLDzFo
+
+shipyard guide. yes its quite extensive but you dont have to read everything in it to get a basic understanding of how it works
+[https://www.icy-veins.com/wow/garrison-shipyard-complete-guide](https://www.wowhead.com/guide/garrisons/shipyard)
+
+a quick way to farm Garrison Resources quickly (so you can get heirloom rings quicker) https://www.wowhead.com/currency=824/garrison-resources
+there also an item you can buy from AH (if its being sold right now), which gives you 1000 garrison resources. be aware the cap is 10 000 garrison resources - be sure to not overcap it and waste resources. https://www.wowhead.com/item=128313/huge-ogre-cache
+
+# Weakauras
 
 weakauras retail https://wago.io/the-war-within-weakauras
 weakauras legion https://wa.snwflake.dev/search/weakaura/legion
