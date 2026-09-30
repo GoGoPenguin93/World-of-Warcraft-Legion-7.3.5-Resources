@@ -17,9 +17,22 @@ https://web.archive.org/web/20180303231315/https://www.icy-veins.com/wow/class-g
 
 list of recolored Class Tier sets (for example you can use the recolored version of the Judgement Armor Tier 2 Set (Paladin) on any plate class) : https://wowpedia.fandom.com/wiki/Set_look_alikes
 
-# Addons:
+# Addon resources:
 
-- curseforge, browse files etc etc
+general setup:
+- be sure to give the addon folder the right name, else it will not get detected by the game. example: https://i.imgur.com/ZZtHe6K.png
+Folder name: Bartender4. if you are not sure how to name the folder, name it after the Bartender4.lua or Bartender4.toc files. basically in this example that would lead to Bartender4 folder name.
+- always have the "Load out of date Addons" ticked (bottom left on your character screen in the addons menu)
+
+- warperia https://warperia.com/
+can be used via their website to download the addons or you can also get their client (with optional login) so you can setup your world of warcraft folder and the program will download the addons right into your addons folder
+
+- curseforge https://www.curseforge.com/wow/search?class=addons&page=1&pageSize=20&sortBy=relevancy
+how to: (ATTENTION: NEVER USE/CLICK THE RED DOWNLOAD BUTTON ON THIS SITE - IT WILL DOWNLOAD THE LATEST RETAIL VERSION (12.X.X) OF THE ADDON AND THAT WILL MOST LIKELY NOT FUNCTION WITH OUR 7.3.5 GAME CLIENT)
+> find an addon you like and click on its "Files" tab
+> click the slider on the left side of "Show alpha files" to enable it
+> browse the game version 7.3.5 from the list via clicking on "Game Versions" (HINT: if you cannot find the 7.3.5 version, try to use anything below that 7.2.5 etc etc and so on - sometimes the addon is not available for patch 7.x.x at all - what you can do is try 6.X.X or 8.X.X+ versions. they may work - otherwise you are probably out of luck)
+> click the download button from the file on the very top of the list (the latest version)
 
 - install  addons via the launcher or optionally https://tauriwow.com/addon
 
