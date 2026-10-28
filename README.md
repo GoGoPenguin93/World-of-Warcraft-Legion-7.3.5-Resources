@@ -35,6 +35,10 @@ screenshot of the following steps on how to get the right addon version: [imgur 
 
 [tauri launcher or optionally from the tauri website](https://tauriwow.com/addon)
 
+# other Addons:
+
+[m+ addon (rio clone)](https://github.com/bez-wow/legionkeyhistoryhttps://github.com/bez-wow/legionkeyhistory) _ATTENTION: be sure to follow the instructions on how to install and set it up_
+
 [Zygor Guides](https://mega.nz/file/LE1xiJBD#KMS96kyIg3J2bEwF442wl17fW3X8Z3awb02RYZdXC_A)
 
 # Weakauras
@@ -47,18 +51,16 @@ convert retail weakauras to 7.3.5 weakauras [lootbox.dev](https://lootbox.dev/)
 
 # tools for Tauri WoW:
 
-[how to sim yourself (find best gear drops, stats, relic drops etc)](https://simulatauri.nextdrop.ovh/)
-
-[weekly updated m+ affix infos](https://napnapnapnap.github.io/mythicpl.us/)
-
-
-
 found a bug?
 if a quest is not working, an npc is missing or a spell is not behaving properly, first check the [Tauri Bugtracker](https://bug.tauriwow.com/index.php?do=tasklist&project=0). (for quest bugs: look for infos and explanations in the wowhead comments). another option is to try and ask the global chat "/join global" for help. finally, you can report the bug on the bugtracker. if its an important gamebreaking bug, it will most likely be fixed in time, otherwise you can upvote the bug so it might get a higher priority.
 
 [Tauri style wowhead (apparently drop rates on here are the most accurate for the server)](https://legion-shoot.tauri.hu/)
 
-[Ladder Rankings for achievements, pvp, raids and m+](https://tauriachievements.github.io/) ATTENTION: they also have an ingame addon which you can find here (https://github.com/bez-wow/legionkeyhistory)
+[how to sim yourself (find best gear drops, stats, relic drops etc)](https://simulatauri.nextdrop.ovh/)
+
+[weekly updated m+ affix infos](https://napnapnapnap.github.io/mythicpl.us/)
+
+[Ladder Rankings for achievements, pvp, raids and m+](https://tauriachievements.github.io/) ATTENTION: for their ingame addon, closely follow the instructions on how to install it on this github link here https://github.com/bez-wow/legionkeyhistory
 
 [Auction House to browse from within a web browser](https://tauri.moonbeast.net/)
 
