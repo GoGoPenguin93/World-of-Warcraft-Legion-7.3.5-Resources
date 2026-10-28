@@ -2,8 +2,6 @@
 
 # Game Guides:
 
-General Legion:
-
 [Artifact Guides: Quests, Artifact Power, Gearing, Traits, Appearances](https://www.wowhead.com/wotlk/news/legion-artifact-guides-quests-artifact-power-gearing-traits-appearances-255417)
 
 ["best" Order Hall choises for every class](https://www.gamerevolution.com/originals/12873-best-order-hall-advancement-choices-for-every-class-in-wow-legion) NOTE: personally I have no experience when it comes to the best advancements - this is just what i found - also i guess its highly personal and situational 
@@ -22,7 +20,7 @@ general setup:
 Folder name: Bartender4. if you are not sure how to name the folder, name it after the Bartender4.lua or Bartender4.toc files. basically in this example that would lead to Bartender4 folder name.
 - always have "Load out of date Addons" ticked (bottom left on the screen where you choose your characters to login to the world --> in the addons menu)
 
-sources:
+sources to download from:
 
 [warperia](https://warperia.com/)
 can be used via their website to download the addons or you can also get their client (with optional login) so you can setup your world of warcraft folder and the program will download the addons right into your addons folder.
@@ -37,9 +35,7 @@ screenshot of the following steps on how to get the right addon version: [imgur 
 
 [tauri launcher or optionally from the tauri website](https://tauriwow.com/addon)
 
-other addons:
-
-[Zygor](https://mega.nz/file/LE1xiJBD#KMS96kyIg3J2bEwF442wl17fW3X8Z3awb02RYZdXC_A)
+[Zygor Guides](https://mega.nz/file/LE1xiJBD#KMS96kyIg3J2bEwF442wl17fW3X8Z3awb02RYZdXC_A)
 
 # Weakauras
 
@@ -55,13 +51,14 @@ convert retail weakauras to 7.3.5 weakauras [lootbox.dev](https://lootbox.dev/)
 
 [weekly updated m+ affix infos](https://napnapnapnap.github.io/mythicpl.us/)
 
-found a bug?
 
-for example if a quest is not working, an npc is missing or a spell is not behaving properly, first check the [Tauri Bugtracker](https://bug.tauriwow.com/index.php?do=tasklist&project=0). (for quest bugs: look for infos and explanations in the wowhead comments). another option is to try and ask the global chat "/join global" for help. finally, you can report the bug on the bugtracker. if its an important gamebreaking bug, it will most likely be fixed in time, otherwise you can upvote the bug so it might get a higher priority.
+
+found a bug?
+if a quest is not working, an npc is missing or a spell is not behaving properly, first check the [Tauri Bugtracker](https://bug.tauriwow.com/index.php?do=tasklist&project=0). (for quest bugs: look for infos and explanations in the wowhead comments). another option is to try and ask the global chat "/join global" for help. finally, you can report the bug on the bugtracker. if its an important gamebreaking bug, it will most likely be fixed in time, otherwise you can upvote the bug so it might get a higher priority.
 
 [Tauri style wowhead (apparently drop rates on here are the most accurate for the server)](https://legion-shoot.tauri.hu/)
 
-[Ladder Rankings for achievements, pvp, raids and m+](https://tauriachievements.github.io/)
+[Ladder Rankings for achievements, pvp, raids and m+](https://tauriachievements.github.io/) ATTENTION: they also have an ingame addon which you can find here (https://github.com/bez-wow/legionkeyhistory)
 
 [Auction House to browse from within a web browser](https://tauri.moonbeast.net/)
 
@@ -80,5 +77,5 @@ when you got this done, watch this short walkthrough video to get a basic unders
 shipyard guide. yes its quite extensive but you dont have to read everything in it to get a basic understanding of how it works
 [https://www.icy-veins.com/wow/garrison-shipyard-complete-guide](https://www.wowhead.com/guide/garrisons/shipyard)
 
-a quick way to farm Garrison Resources quickly (so you can get heirloom rings quicker) https://www.wowhead.com/currency=824/garrison-resources
+a quick way to farm Garrison Resources https://www.wowhead.com/currency=824/garrison-resources
 there also an item you can buy from AH (if its being sold right now), which gives you 1000 garrison resources. be aware the cap is 10 000 garrison resources - be sure to not overcap it and waste resources. [Huge Ogre Cache](https://www.wowhead.com/item=128313/huge-ogre-cache)
