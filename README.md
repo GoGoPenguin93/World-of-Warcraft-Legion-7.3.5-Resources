@@ -2,11 +2,11 @@
 
 # Game Guides:
 
+[Class Guides](https://pages.github.com/https://web.archive.org/web/20180303231315/https://www.icy-veins.com/wow/class-guides) ATTENTION: browse your spec guide and on the top left click on "captures". example on how to get the right info: in my case i want info on the available legendaries for patch 7.0.3 for my spec. so i browse a date which is as close to the original release date of 7.0.3. here you can see when patches have been released https://wowpedia.fandom.com/wiki/Patch#Legion
+
 [Artifact Guides: Quests, Artifact Power, Gearing, Traits, Appearances](https://www.wowhead.com/wotlk/news/legion-artifact-guides-quests-artifact-power-gearing-traits-appearances-255417)
 
 ["best" Order Hall choises for every class](https://www.gamerevolution.com/originals/12873-best-order-hall-advancement-choices-for-every-class-in-wow-legion) NOTE: personally I have no experience when it comes to the best advancements - this is just what i found - also i guess its highly personal and situational 
-
-[Class Guides](https://pages.github.com/https://web.archive.org/web/20180303231315/https://www.icy-veins.com/wow/class-guides) NOTE: check when legion patches came out 
 
 # Transmog:
 
@@ -41,7 +41,11 @@ screenshot of the following steps on how to get the right addon version: [imgur 
 
 [Zygor Guides](https://mega.nz/file/LE1xiJBD#KMS96kyIg3J2bEwF442wl17fW3X8Z3awb02RYZdXC_A)
 
-# Weakauras
+[original weakauras](https://www.curseforge.com/wow/addons/weakauras-2/download/2565767)
+
+[tauri weakauras fork](https://github.com/Maczuga/WeakAuras2-Legion)
+
+Weakauras
 
 weakauras retail [from wago.io](https://wago.io/the-war-within-weakauras)
 
