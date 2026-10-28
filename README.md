@@ -2,7 +2,7 @@
 
 # Game Guides:
 
-[Class Guides](https://pages.github.com/https://web.archive.org/web/20180303231315/https://www.icy-veins.com/wow/class-guides) ATTENTION: browse your spec guide and on the top left click on "captures".  example on how to get the right info: in my case i want info on the available legendaries for patch 7.0.3 for my spec. i am gonna browse a date somewhere between the release date of 7.0.3 and the next patch release date of 7.1.0 to find the right info.  here you can see when patches have been released https://wowpedia.fandom.com/wiki/Patch#Legion
+[Class Guides](https://web.archive.org/web/20180303231315/https://www.icy-veins.com/wow/class-guides) ATTENTION: browse your spec guide and on the top left click on "captures".  example on how to get the right info: in my case i want info on the available legendaries for patch 7.0.3 for my spec. i am gonna browse a date somewhere between the release date of 7.0.3 and the next patch release date of 7.1.0 to find the right info.  here you can see when patches have been released https://wowpedia.fandom.com/wiki/Patch#Legion
 
 [Artifact Guides: Quests, Artifact Power, Gearing, Traits, Appearances](https://www.wowhead.com/wotlk/news/legion-artifact-guides-quests-artifact-power-gearing-traits-appearances-255417)
 
