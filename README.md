@@ -15,13 +15,13 @@ https://wowpedia.fandom.com/wiki/Set_look_alikes
 
 # Addons:
 
-general setup:
+<ins>general setup:</ins>
 
 - be sure to give the addon folder the right name, else it will not get detected by the game. example: [imgur picture](https://i.imgur.com/ZZtHe6K.png)
 Folder name: Bartender4. if you are not sure how to name the folder, name it after the Bartender4.lua or Bartender4.toc files. basically in this example that would lead to Bartender4 folder name.
 - always have "Load out of date Addons" ticked (bottom left on the screen where you choose your characters to login to the world --> in the addons menu)
 
-sources to download from:
+<ins>sources to download from:</ins>
 
 [warperia](https://warperia.com/)
 can be used via their website to download the addons or you can also get their client (with optional login) so you can setup your world of warcraft folder and the program will download the addons right into your addons folder.
@@ -46,7 +46,7 @@ screenshot of the following steps on how to get the right addon version: [imgur 
 
 [tauri weakauras fork](https://github.com/Maczuga/WeakAuras2-Legion)
 
-Weakauras
+<ins>Weakauras</ins>
 
 weakauras retail [from wago.io](https://wago.io/the-war-within-weakauras)
 
@@ -56,7 +56,7 @@ convert retail weakauras to 7.3.5 weakauras [lootbox.dev](https://lootbox.dev/)
 
 # tools for Tauri WoW:
 
-found a bug?
+<ins>found a bug?</ins>
 if a quest is not working, an npc is missing or a spell is not behaving properly, first check the [Tauri Bugtracker](https://bug.tauriwow.com/index.php?do=tasklist&project=0). (for quest bugs: look for infos and explanations in the wowhead comments). another option is to try and ask the global chat "/join global" for help. finally, you can report the bug on the bugtracker. if its an important gamebreaking bug, it will most likely be fixed in time, otherwise you can upvote the bug so it might get a higher priority.
 
 [Tauri style wowhead (apparently drop rates on here are the most accurate for the server)](https://legion-shoot.tauri.hu/)
