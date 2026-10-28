@@ -10,7 +10,8 @@
 
 # Transmog:
 
-list of recolored Class Tier sets (for example you can use the recolored version of the Judgement Armor Tier 2 Set (Paladin) on any plate class) : [Set look alikes](https://wowpedia.fandom.com/wiki/Set_look_alikes)
+list of recolored Class Tier sets (for example you can use the recolored version of the Judgement Armor Tier 2 Set (Paladin) on any plate class)
+https://wowpedia.fandom.com/wiki/Set_look_alikes
 
 # Addons:
 
