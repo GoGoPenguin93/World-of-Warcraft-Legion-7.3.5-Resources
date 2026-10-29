@@ -40,6 +40,8 @@ screenshot of the following steps on how to get the right addon version: [imgur 
 
 [m+ addon (rio clone)](https://github.com/bez-wow/legionkeyhistoryhttps://github.com/bez-wow/legionkeyhistory) _ATTENTION: be sure to follow the instructions on how to install and set it up_
 
+[simulationcraft for /simc string](https://www.curseforge.com/wow/addons/simulationcraft/download/2526160)
+
 [Zygor Guides](https://mega.nz/file/LE1xiJBD#KMS96kyIg3J2bEwF442wl17fW3X8Z3awb02RYZdXC_A)
 
 [original weakauras](https://www.curseforge.com/wow/addons/weakauras-2/download/2565767)
