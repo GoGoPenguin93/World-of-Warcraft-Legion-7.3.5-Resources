@@ -53,6 +53,8 @@ screenshot of the following steps on how to get the right addon version: [imgur 
 <ins>Weakauras</ins>
 
 how to find weakauras and how to import them:
+first of all, whenever it shows this info, you will need to install the specifically made weakaura version mentioned  
+![image](https://i.imgur.com/wrZCYSS.png)  
 
 you can either browse the
 - [legion 7.3.5 weakauras for tauri from wa.snwflake.dev](https://wa.snwflake.dev/search/weakaura/legion)
@@ -60,12 +62,13 @@ or
 - [you can browse the retail weakauras from wago.io (or for other game versions like classic etc)](https://wago.io/the-war-within-weakauras)
 
 
+
 convert retail weakauras to 7.3.5 weakauras [lootbox.dev](https://lootbox.dev/) 
 
 # game tweaks
 
 [clean/HD icons. extract the Interface folder to your WoW folder and if prompted, merge it. restart the game.](https://wowinterface.com/downloads/download24559-CleanIcons-ThinFanUpdate)  
-![imgage](https://i.imgur.com/wrZCYSS.png)  
+![image](https://i.imgur.com/wrZCYSS.png)  
 
 # tools for Tauri WoW:
 
