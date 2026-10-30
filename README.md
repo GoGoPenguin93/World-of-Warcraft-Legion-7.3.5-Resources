@@ -53,17 +53,23 @@ screenshot of the following steps on how to get the right addon version: [imgur 
 <ins>Weakauras</ins>
 
 how to find weakauras and how to import them:
-first of all, whenever it shows this info, you will need to install the specifically made weakaura version mentioned  
+first of all, whenever it shows this info on a weakaura on the tauri weakauras website, you will need to install the specifically made weakaura version mentioned  
 ![image](https://i.imgur.com/NYCiK0s.png)  
 
-you can either browse the
-- [legion 7.3.5 weakauras for tauri from wa.snwflake.dev](https://wa.snwflake.dev/search/weakaura/legion)
-or
-- [you can browse the retail weakauras from wago.io (or for other game versions like classic etc)](https://wago.io/the-war-within-weakauras)
+for retail/classic weakauras via wago.io, you will probably have to use the [original weakauras addon](https://www.curseforge.com/wow/addons/weakauras-2/download/2565767)  
+then you will also have to try and convert it from the retail/classic version to the legion version  
+a lot of the times for me this did not work, therefor its probably not possible to make the weakaura you found on wago.io to work with our 7.3.5 client  
 
+in order to import a weakaura, you simply click on "copy weakaura import string", and when ingame you open your weakauras addon via /wa, click on import and paste the string  
+wether it shows that it imported it, or you get an error will determine if you can make it work or not  
 
+if you are desperate about making a weakaura work and you know a bit about coding, you can try and fix it yourself  
+with the use of AI i also were able to fix some weakauras by giving the AI the information that i am on game version 7.3.5 of world of warcraft, so it knows what to do (i think 7.3.5 has a different API compared to retail and this is why retail weakauras need conversion)
 
-convert retail weakauras to 7.3.5 weakauras [lootbox.dev](https://lootbox.dev/) 
+links:
+- [legion 7.3.5 weakauras for tauri from wa.snwflake.dev](https://wa.snwflake.dev/search/weakaura/legion)  
+- [you can browse the retail weakauras from wago.io (or for other game versions like classic etc)](https://wago.io/the-war-within-weakauras)  
+- [convert retail weakauras to 7.3.5 weakauras]((https://lootbox.dev/)  
 
 # game tweaks
 
