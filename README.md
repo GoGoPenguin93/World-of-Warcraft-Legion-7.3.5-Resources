@@ -54,7 +54,7 @@ screenshot of the following steps on how to get the right addon version: [imgur 
 
 how to find weakauras and how to import them:
 first of all, whenever it shows this info, you will need to install the specifically made weakaura version mentioned  
-![image](https://i.imgur.com/wrZCYSS.png)  
+![image](https://i.imgur.com/NYCiK0s.png)  
 
 you can either browse the
 - [legion 7.3.5 weakauras for tauri from wa.snwflake.dev](https://wa.snwflake.dev/search/weakaura/legion)
