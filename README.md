@@ -48,7 +48,7 @@ screenshot of the following steps on how to get the right addon version: [imgur 
 
 [original weakauras](https://www.curseforge.com/wow/addons/weakauras-2/download/2565767)
 
-[tauri weakauras fork](https://github.com/Maczuga/WeakAuras2-Legion)
+[tauri weakauras fork](https://github.com/GoGoPenguin93/WeakAuras2-Legion/releases/download/v7.3.5/WeakAuras.zip)
 
 <ins>Weakauras</ins>
 
