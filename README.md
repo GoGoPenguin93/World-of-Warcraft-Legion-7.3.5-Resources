@@ -69,7 +69,7 @@ with the use of AI i also were able to fix some weakauras by giving the AI the i
 links:
 - [legion 7.3.5 weakauras for tauri from wa.snwflake.dev](https://wa.snwflake.dev/search/weakaura/legion)  
 - [you can browse the retail weakauras from wago.io (or for other game versions like classic etc)](https://wago.io/the-war-within-weakauras)  
-- [convert retail weakauras to 7.3.5 weakauras]((https://lootbox.dev/)  
+- [convert retail weakauras to 7.3.5 weakauras](https://lootbox.dev/)  
 
 # game tweaks
 
