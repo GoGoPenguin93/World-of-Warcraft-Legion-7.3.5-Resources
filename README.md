@@ -15,7 +15,7 @@ https://wowpedia.fandom.com/wiki/Set_look_alikes
 
 # Addons:
 
-<ins>general setup:</ins>
+<ins>how to find 7.3.5 versions of addons for our game client</ins>
 
 - be sure to give the addon folder the right name, else it will not get detected by the game. example: [imgur picture](https://i.imgur.com/ZZtHe6K.png)
 Folder name: Bartender4. if you are not sure how to name the folder, name it after the Bartender4.lua or Bartender4.toc files. basically in this example that would lead to Bartender4 folder name.
@@ -43,6 +43,8 @@ screenshot of the following steps on how to get the right addon version: [imgur 
 [simulationcraft for /simc string](https://www.curseforge.com/wow/addons/simulationcraft/download/2526160)
 
 [Zygor Guides](https://mega.nz/file/LE1xiJBD#KMS96kyIg3J2bEwF442wl17fW3X8Z3awb02RYZdXC_A)
+
+[Rotation Addon AethysRotation aka HeroRotation](https://www.curseforge.com/wow/addons/herorotation/download/2548501)
 
 [original weakauras](https://www.curseforge.com/wow/addons/weakauras-2/download/2565767)
 
