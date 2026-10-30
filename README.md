@@ -66,6 +66,7 @@ convert retail weakauras to 7.3.5 weakauras [lootbox.dev](https://lootbox.dev/)
 
 [clean/HD icons. extract the Interface folder to your WoW folder and if prompted, merge it. restart the game.](https://wowinterface.com/downloads/download24559-CleanIcons-ThinFanUpdate)
 
+[img]https://i.imgur.com/wrZCYSS.png[/img]
 
 # tools for Tauri WoW:
 
